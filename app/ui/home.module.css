@@ -1,0 +1,10 @@
+.shape {
+    height: 150px;
+    width: 100%;
+    background-color: #0270F2;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 1rem;
+  }
